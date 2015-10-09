@@ -23,15 +23,15 @@
   },
   "dependencies": {
     "inquirer": "0.10.1",
-    "wrench": "~1.5.4",
-    "mustache": "~0.7.2"
+    "wrench": "1.5.7",
+    "mustache": "0.7.3"
   },
   "devDependencies": {
-    "grunt-contrib-jshint": "~0.7.0",
-    "grunt-contrib-clean": "~0.5.0",
-    "grunt-contrib-nodeunit": "~0.2.2",
-    "grunt-contrib-copy": "~0.4.1",
-    "grunt": "~0.4.1"
+    "grunt-contrib-jshint": "0.7.2",
+    "grunt-contrib-clean": "0.5.0",
+    "grunt-contrib-nodeunit": "0.2.2",
+    "grunt-contrib-copy": "0.4.1",
+    "grunt": "0.4.4"
   },
   "peerDependencies": {
     "grunt": "~0.4.1"
